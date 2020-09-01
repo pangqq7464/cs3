@@ -1,0 +1,45 @@
+http://tsnbossUP/com_sitech_oneboss_common_service_ISTSNPubSnd2_pubCall
+
+
+{
+    "ROOT": {
+        "BODY": {
+             "BUSI_INFO": {
+                "BIP_CODE": "P0000015",
+                "CARD_NO": "295CCCAA63F879926C24D241F1B5DB71",
+                "CARD_TYPE": "00",
+                "CHANNEL_ID": "000000000000000",
+                "DOMAIN_ID": "0",
+                "GROUP_ID": "15961",
+                "LOGIN_NO": "aa021A",
+                "MS_OPCODE": "aa021A",
+                "OPR_NUMB": "43120200108174554301376",
+                "PAGE_NO": 0,
+                "PAGE_SIZE": "50",
+                "TRANS_CODE": "S0000015",
+                "UN_TRUST_CHECK": "1",
+                "VISIT_CONTROL": "false"
+            }
+        },
+        "HEADER": {
+            "CHANNEL_ID": "11",
+            "CONTACT_ID": "",
+            "DB_ID": "",
+            "ENV_ID": "",
+            "IP_ADDRESS": "10.161.251.75",
+            "KEEP_LIVE": "",
+            "PARENT_CALL_ID": "667EF69DEB79F644E9942135761D2DA8",
+            "PASSWORD": "65a0ec385ca6a0c1e20d1f8270c28303",
+            "POOL_ID": "2",
+            "PROVINCE_GROUP": "JL",
+            "ROUTING": {
+                "ROUTE_KEY": "14",
+                "ROUTE_VALUE": "bawW00"
+            },
+            "SUB_TRACE_ID": "",
+            "TENANT_ID": "22",
+            "TRACE_ID": "22*11*20200821085545*3897*bawW00*942971",
+            "USERNAME": "bawW00"
+        }
+    }
+}
